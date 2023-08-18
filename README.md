@@ -52,3 +52,8 @@
 </div>
 
 ###
+<h3 align="left">🛠 Leet Code Status</h3>
+
+###
+![LeetCode Stats](https://leetcard.jacoblin.cool/syamjith?theme=light&font=Noto%20Sans%20Meetei%20Mayek)
+###
